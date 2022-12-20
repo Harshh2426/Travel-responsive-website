@@ -1,3 +1,3 @@
 # Travel-responsive-website
 
-Full responsive websie using HTML and CSS
+Fully responsive websie using HTML and CSS
